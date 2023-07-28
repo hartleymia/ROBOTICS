@@ -5,3 +5,5 @@
 ### 1.    A (max 100 word) summary of your solution (describing what the system is doing). 
 
 ### 2.    An (optional) installation instruction, in case you use software components or ROS2 packages that are not installed in the provided Docker image.
+
+### 3.    An explanation on how to start your system, detailing all commands and steps necessary to reproduce and run your solution.
