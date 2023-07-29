@@ -4,7 +4,9 @@
 
 ### 1.    A (max 100 word) summary of your solution (describing what the system is doing). 
 
-<span style="color: red;">ggg</span>
+#### rough plan to 1
+
+using colour thresholding to identify the coloured objects
 
 ### 2.    An (optional) installation instruction, in case you use software components or ROS2 packages that are not installed in the provided Docker image.
 
