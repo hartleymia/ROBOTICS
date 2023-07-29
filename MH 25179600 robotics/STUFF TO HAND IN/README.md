@@ -12,5 +12,5 @@ there are no additional components or packages installed
 
 * set up/login to docker and open gazebo
 * launch your chosen simulation environment 
-* open all three scripts in gazebos visual studio and run the script called robot.py
+* open robot.py in gazebos visual studio and run the script
 * the solution should now be running
