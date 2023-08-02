@@ -24,9 +24,9 @@
 * Coloured object detection.
   > Colour thresholding used to detect coloured objects
 
-:::info
-When all coloured objects detected, the application stops.
-:::
+
+#### When all coloured objects detected, the application stops.
+
 
 ### 2.    An (optional) installation instruction, in case you use software components or ROS2 packages that are not installed in the provided Docker image.
 
