@@ -6,23 +6,23 @@
 
 #### Movement:
 * Forwards
-  | Default movement.
+  > Default movement.
 * Veering left/right
-  | If object detected close to the front right or left of robot.
+  > If object detected close to the front right or left of robot.
 * Rotating left/right
-  | robot stops and rotates left/right depending on where largest space is.
+  > robot stops and rotates left/right depending on where largest space is.
 * Reversing
-  | If wheels not moving, reverse.
+  > If wheels not moving, reverse.
 
 #### Detection:
 * Tilt detection
-  | Odometry used to detect pitching/rolling.
+  > Odometry used to detect pitching/rolling.
 * Oscillation detection.
-  | detects left/right oscillation.
+  > detects left/right oscillation.
 * Collision detection.
-  | laser scanner used to determine direction to move by detecting objects around it.
+  > laser scanner used to determine direction to move by detecting objects around it.
 * Coloured object detection.
-  | Colour thresholding used to detect coloured objects
+  > Colour thresholding used to detect coloured objects
 
   When all coloured objects detected, the application stops.
 
